@@ -41,8 +41,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://codeberg.org/dudenix/escritoire/releases/download/v0.1.2/escritoire-0.1.2.tar.xz",
-                    "sha256": "c5c141b3b15cc686005019cd39cf7d2f8eaf2b9e0040395129f8ad7be39ac706"
+                    "url": "https://codeberg.org/dudenix/escritoire/releases/download/v0.1.3/escritoire-0.1.3.tar.xz",
+                    "sha256": "5796433dbcfa6164b3f5c6abf5a9b569e8c211dc4885a5f7bfe8250da63c4148"
                 }
             ]
         }
