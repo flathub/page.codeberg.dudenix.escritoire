@@ -1,7 +1,7 @@
 {
     "id": "page.codeberg.dudenix.escritoire",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "48",
+    "runtime-version": "50",
     "sdk": "org.gnome.Sdk",
     "sdk-extensions": [
         "org.freedesktop.Sdk.Extension.rust-stable"
@@ -20,20 +20,6 @@
         }
     },
     "modules": [
-        {
-            "name": "blueprint-compiler",
-            "buildsystem": "meson",
-            "cleanup": [
-                "*"
-            ],
-            "sources": [
-                {
-                    "type": "git",
-                    "url": "https://gitlab.gnome.org/jwestman/blueprint-compiler",
-                    "tag": "v0.16.0"
-                }
-            ]
-        },
         {
             "name": "escritoire",
             "buildsystem": "meson",
